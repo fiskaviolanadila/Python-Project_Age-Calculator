@@ -4,4 +4,4 @@ Nama: Fiska Viola Nadila
 NPM: 2215061051
 Kelas: PSTI C
 
-Link Toutube: https://youtu.be/yq3xm-jTWgA
+Link Youtube: https://youtu.be/yq3xm-jTWgA
